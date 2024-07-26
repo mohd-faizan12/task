@@ -25,7 +25,7 @@ Ensure you have Node.js and npm installed on your machine. You can download them
    git clone https://github.com/your-username/my-node-project.git
    cd my-node-project
 2. Install the depency
-   sh
+   ``sh
   npm install
 
 ## Development Server
