@@ -25,20 +25,16 @@ Ensure you have Node.js and npm installed on your machine. You can download them
    git clone https://github.com/your-username/my-node-project.git
    cd my-node-project
 2. Install the depency
-   ```sh npm install
+   ```sh
+   npm install
   
 
 ## Development Server
 To start the development server with auto-reloading:
-  npm run dev
+ ```sh
+npm run dev
 
-## Build
-To build the project:
-  npm run build
 
-## Production
-To start the production server:
-npm start
 
 
 
