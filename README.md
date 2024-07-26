@@ -32,9 +32,4 @@ Ensure you have Node.js and npm installed on your machine. You can download them
 ## Development Server
 To start the development server with auto-reloading:
  ```sh
-npm run dev
-
-
-
-
-
+ npm run dev
